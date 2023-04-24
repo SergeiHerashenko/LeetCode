@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "daG1RG2mi0jxqcmqYQmlrnj4qlpSDMN4+M9nV4cCjs1I40IbQSu8lhsbDHXHb7h5JxV0VmRnojt7za2OeqLjZw==",
+  "success": true,
+  "projectFilePath": "E:\\Project_All\\LeetCode\\1. Two Sum\\Two_Sum\\Two_Sum\\Two_Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

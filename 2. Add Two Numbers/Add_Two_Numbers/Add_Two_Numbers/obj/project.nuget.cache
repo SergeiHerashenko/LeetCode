@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/4BLsIgDfSNiI/i3q3V1lzgNA5PT4MDMb2HDhp+LYv3m+pOlWYIbo8Mpk1DD39RE+7qrPDg8bhGd4xumJ37wg==",
+  "success": true,
+  "projectFilePath": "E:\\Project_All\\LeetCode\\2. Add Two Numbers\\Add_Two_Numbers\\Add_Two_Numbers\\Add_Two_Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

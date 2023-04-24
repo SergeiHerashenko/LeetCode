@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIqtPnRWbCGjF+9BK39ICQm47J0A1GfikdY0piSGsugjZCZNg0ybyWitAtbLAdu79OOO5JQQr1yjpjbHenFMBA==",
+  "success": true,
+  "projectFilePath": "E:\\Project_All\\LeetCode\\3. Longest Substring Without Repeating Characters\\Longest_Substring\\Longest_Substring\\Longest_Substring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
