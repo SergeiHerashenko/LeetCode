@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yn7lJOl6kI3tAyiTUcWSIkGINfFpqI7Ftm+p80d6/FIy6s106O/1k7duw/FO0s0uFu1d61vSiKQJdpTh2ugQGQ==",
+  "success": true,
+  "projectFilePath": "E:\\Project_All\\LeetCode\\5. Longest Palindromic Substring\\Longest_Palindromic\\Longest_Palindromic\\Longest_Palindromic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

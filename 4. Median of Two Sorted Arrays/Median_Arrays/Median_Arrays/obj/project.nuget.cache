@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdYN3tbHkFIE64W0mpuYwKKgYpJmx9b5D/Xhuv3+BxSARKu5lR8w5YnR8dorZ1XctvtKrT65T+O8y18cqxw60g==",
+  "success": true,
+  "projectFilePath": "E:\\Project_All\\LeetCode\\4. Median of Two Sorted Arrays\\Median_Arrays\\Median_Arrays\\Median_Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
